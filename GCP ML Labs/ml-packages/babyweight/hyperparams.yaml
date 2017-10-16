@@ -1,0 +1,22 @@
+trainingInput:
+  scaleTier: STANDARD_1
+  hyperparameters:
+    goal: MINIMIZE
+    maxTrials: 30
+    maxParallelTrials: 1
+    params:
+    - parameterName: num-layers
+      type: INTEGER
+      minValue: 2
+      maxValue: 4
+      scaleType: UNIT_LINEAR_SCALE
+    - parameterName: layer-sizes-scale-factor
+      type: DOUBLE
+      minValue: 0.2
+      maxValue: 0.8
+      scaleType: UNIT_LINEAR_SCALE
+    - parameterName: learning-rate
+      type: DOUBLE
+      minValue: 0.001
+      maxValue: 0.01
+      scaleType: UNIT_LOG_SCALE
