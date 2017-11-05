@@ -1,6 +1,6 @@
 # TF Estimator Tutorials - TensorFlow v1.4
 
-## The tutorials uses sythetic (generated) data to cover:
+## The tutorials uses synthetic (generated) data to cover:
 
 01. Canned Estimators
 02. Wide & Deep Classification and Regression Models - (handling dense and sparse feature columns)
