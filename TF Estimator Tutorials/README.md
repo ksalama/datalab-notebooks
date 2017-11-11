@@ -2,7 +2,7 @@
 
 ## The tutorials uses synthetic (generated) data to cover:
 
-01. Canned Estimators
+01. Canned Estimators (Regression, Classification, Clustering, Timeseries, etc.)
 02. Wide & Deep Classification and Regression Models - (handling dense and sparse feature columns)
 03. Work with numeric and categorical input attributes
 04. Feature Engineering (crossing, embedding, and bucketization, as well as custom logic during data input)
