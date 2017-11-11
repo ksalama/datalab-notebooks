@@ -12,3 +12,5 @@
 08. Early Stopping (SessionRunHooks)
 09. Serving (export_savedmodel)
 10. Custom Estimators (model_fn & EstimatorSpec)
+
+<img src="images/exp-api2.png" width="1400" hight="400">
