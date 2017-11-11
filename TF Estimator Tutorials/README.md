@@ -1,5 +1,7 @@
 # TF Estimator Tutorials - TensorFlow v1.4
 
+<img src="images/exp-api2.png" width="1400" hight="400">
+
 ## The tutorials uses synthetic (generated) data to cover:
 
 01. Canned Estimators (Regression, Classification, Clustering, Timeseries, etc.)
@@ -13,4 +15,3 @@
 09. Serving (export_savedmodel)
 10. Custom Estimators (model_fn & EstimatorSpec)
 
-<img src="images/exp-api2.png" width="1400" hight="400">
