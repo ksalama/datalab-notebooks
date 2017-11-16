@@ -2,7 +2,7 @@
 
 <img src="images/exp-api2.png" width="1400" hight="400">
 
-## The tutorials uses synthetic (generated) data to cover:
+## The tutorials use synthetic (generated) data to cover:
 
 01. Canned Estimators (Regression, Classification, Clustering, Timeseries, etc.)
 02. Wide & Deep Classification and Regression Models - (handling dense and sparse feature columns)
