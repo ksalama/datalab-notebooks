@@ -257,7 +257,7 @@ def run_experiment(run_config, hyper_params):
     )
 
     exporter = tf.estimator.FinalExporter(
-        'estimator',
+        'estimate',
         input.SERVING_FUNCTIONS[hyper_params.export_format],
         as_text=False  # change to true if you want to export the model as readable text
     )
